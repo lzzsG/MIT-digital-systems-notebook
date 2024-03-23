@@ -3,14 +3,14 @@ authors = ["lzzsG"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook-pages-test"
+title = "MIT-note"
 
 
 [output.html]
-site-url = "/mdBook-pages-test/"
+site-url = "/MIT-note/"
 default-theme = "black"
 preferred-dark-theme = "black"
-git-repository-url = "https://github.com/lzzsG/mdBook-pages-test"
+git-repository-url = "https://github.com/lzzsG/MIT-note"
 git-repository-icon = "fa-github"
 
 
