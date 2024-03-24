@@ -4,7 +4,7 @@
 
 - [MIT-6.004](./MIT6.004.md)
   - [L01-Introduction](./MIT6.004/L01.md)
-  - [L02-RISC-V Assembly](./MIT6.004/L02.md)
+  - [L02-RISC-V Assembly and Binary Notation](./MIT6.004/L02.md)
   - [L03-Compiling Code, Procedures, and Stacks](./MIT6.004/L03.md)
   - [L04-Procedures and MMIO](./MIT6.004/L04.md)
 
