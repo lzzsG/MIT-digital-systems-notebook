@@ -10,6 +10,7 @@
   - [L05-Combinational Logic](./MIT6.004/L05.md)
   - [L06-Barrel Shifter, Boolean Optimizations, and Logic Synthesis](./MIT6.004/L06.md)
   - [L07-Complex Combinational Circuits in Bluespec](./MIT6.004/L07.md)
+  - [L08-Design Tradeoffs in Arithmetic Circuits](./MIT6.004/L08.md)
 - [MIT 6.175](./MIT6.175.md)
 - [MIT 6.375](./MIT6.375.md)
 
