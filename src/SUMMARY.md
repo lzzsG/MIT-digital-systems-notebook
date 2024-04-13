@@ -7,9 +7,13 @@
   - [L02-RISC-V Assembly and Binary Notation](./MIT6.004/L02.md)
   - [L03-Compiling Code, Procedures, and Stacks](./MIT6.004/L03.md)
   - [L04-Procedures and MMIO](./MIT6.004/L04.md)
-
+  - [L05-Combinational Logic](./MIT6.004/L05.md)
+  - [L06-Barrel Shifter, Boolean Optimizations, and Logic Synthesis](./MIT6.004/L06.md)
+  - [L07-Complex Combinational Circuits in Bluespec](./MIT6.004/L07.md)
 - [MIT 6.175](./MIT6.175.md)
 - [MIT 6.375](./MIT6.375.md)
+
+[temp](./temp.md)
 
 <!-- 视频选集
 (1/25)
