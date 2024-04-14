@@ -5,3 +5,19 @@
 
 继续翻译为中文并详细解释内容（语境是计算机硬件，标题默认h3，对解释的适当补充直接加到对应内容的翻译内容中（适当使用你的知识在各分段中解释补充内容）。完整翻译都包括并补充调整，不要生硬直接放那，不遗漏代码或公式，代码添加合适注释，公式使用标准公式格式，） 
 -->
+
+<!-- <style>
+    .iframe-wrapper {
+        position: relative;
+        width: 100%;
+        height: 500px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 100%;
+        border: 3px solid #333;
+        border-radius: 20px;
+    }
+</style> -->
+<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flzzs.fun&count_bg=%23929292&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
