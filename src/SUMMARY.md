@@ -1,8 +1,8 @@
 # Summary
 
-[介绍与资源](./介绍.md)
+[开始 - 介绍与资源](./介绍.md)
 
-- [MIT-6.004](./MIT6.004.md)
+- [MIT-6.004 简介/目录](./MIT6.004.md)
   - [L01-Introduction](./MIT6.004/L01.md)
   - [L02-RISC-V Assembly and Binary Notation](./MIT6.004/L02.md)
   - [L03-Compiling Code, Procedures, and Stacks](./MIT6.004/L03.md)
